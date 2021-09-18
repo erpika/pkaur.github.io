@@ -1,1 +1,2 @@
-# pkaur.github.io
+# Prabhjot Kaur
+MIT License https://opensource.org/licenses/MIT
